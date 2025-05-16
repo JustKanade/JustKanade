@@ -1,10 +1,8 @@
+<h2 align="center">Welcome to my profile !
 
-Welcome to my profile ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
-
-![:name](https://count.kjchmc.cn/get/@JustKanade?theme=moebooru-h)
-===============================================================================================================================
-
-
+<p align="center">
+  <img src="https://count.kjchmc.cn/get/@JustKanade?theme=gelbooru" alt=":name" />
+</p>
 
 
 <p align = "center">
