@@ -15,6 +15,13 @@
     <a href="https://space.bilibili.com/472292672" target="_blank">
         <img src="https://img.shields.io/badge/bilibili-%E5%93%94%E5%93%A9%E5%93%94%E5%93%A9-ff69b4" alt="哔哩哔哩">
     </a>
+
+<div align="center">
+  <a href="https://discord.com/users/1001475041919258634">
+    <img src="https://img.shields.io/badge/Discord-Add Friend-%235865F2?style=for-the-badge&logo=discord" alt="Discord">
+  </a>
+</div>
+
 </p>
 <p align="center">
 <h2 align="center">Technology Stack</h2>
