@@ -3,8 +3,13 @@
 <p align="center">
   <img src="https://count.kjchmc.cn/get/@JustKanade?theme=gelbooru" alt=":name" />
 </p>
+<p align = "center">
 
 
+<img src="https://github-stats-alpha.vercel.app/api?username=JustKanade&cc=FFFFFF&tc=808080&ic=000000&bc=FFFFFF" alt="RS@WittF" /> 
+
+
+<!-- 
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=JustKanade&show_icons=true&theme=tokyonight&line_height=27">
 
